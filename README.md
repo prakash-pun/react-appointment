@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### `npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9 @tailwindcss/forms`
 
 ## Installing Craco
-#### `npm install @crac/craaco`
+#### `npm install @craco/craaco`
 `
 "start": "craco start",
 "build": "craco build",
