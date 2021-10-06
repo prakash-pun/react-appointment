@@ -1,5 +1,6 @@
 {
-  "name": "reactinterface",
+  "homepage": "https://prakash-pun7.github.io/react-appointment/",
+  "name": "react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
