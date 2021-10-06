@@ -29,7 +29,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+git remote add origin https://github.com/prakash-pun7/react-appointment.git
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Installing Tailwind CSS
+### `npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9 @tailwindcss/forms`
+
+## Installing Craco
+#### `npm install @craco/craaco`
+`
+"start": "craco start",
+"build": "craco build",
+"test": "craco test",
+`
